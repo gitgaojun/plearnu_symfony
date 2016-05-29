@@ -1,0 +1,4 @@
+services:
+#    plearnu_frontend.example:
+#        class: Plearnu\Bundle\FrontendBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

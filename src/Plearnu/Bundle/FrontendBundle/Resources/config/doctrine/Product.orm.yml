@@ -1,0 +1,44 @@
+Plearnu\Bundle\FrontendBundle\Entity\Product:
+    type: entity
+    table: Product
+    repositoryClass: Plearnu\Bundle\FrontendBundle\Entity\ProductRepository
+    id:
+        productId:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        userId:
+            type: bigint
+        dateCreated:
+            type: datetime
+        productCategoryId:
+            type: bigint
+        dateLastModified:
+            type: datetime
+        dateLastEmptied:
+            type: datetime
+        name:
+            type: string
+            length: 255
+        description:
+            type: text
+        shortDescription:
+            type: string
+            length: '512'
+        clickCount:
+            type: integer
+        keywords:
+            type: string
+            length: 255
+        status:
+            type: smallint
+        slug:
+            type: string
+            length: 255
+        isCod:
+            type: boolean
+        isFreeShipping:
+            type: boolean
+    lifecycleCallbacks: {  }

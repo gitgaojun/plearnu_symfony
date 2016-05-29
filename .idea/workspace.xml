@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cabd845-96de-4e35-a80f-22b3364f33ad" name="Default" comment="" />
+    <ignored path="my_project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="my_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Entity/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8490">
+              <caret line="566" column="0" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+              <folding>
+                <marker date="1464499460087" expanded="true" signature="122:21450" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="132:158" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="186:212" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="247:275" placeholder=" @var \DateTime ..." />
+                <marker date="1464499460087" expanded="true" signature="312:340" placeholder=" @var \DateTime ..." />
+                <marker date="1464499460087" expanded="true" signature="382:407" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="437:462" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="499:524" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="566:592" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="628:653" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="687:713" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="745:770" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="800:826" placeholder=" @var boolean ..." />
+                <marker date="1464499460087" expanded="true" signature="857:883" placeholder=" @var boolean ..." />
+                <marker date="1464499460087" expanded="true" signature="924:975" placeholder=" Get id ..." />
+                <marker date="1464499460087" expanded="true" signature="1005:1043" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="1052:1142" placeholder=" Set productId ..." />
+                <marker date="1464499460087" expanded="true" signature="1189:1263" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="1272:1330" placeholder=" Get productId ..." />
+                <marker date="1464499460087" expanded="true" signature="1367:1412" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="1421:1517" placeholder=" Set dateCreated ..." />
+                <marker date="1464499460087" expanded="true" signature="1568:1646" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="1655:1717" placeholder=" Get dateCreated ..." />
+                <marker date="1464499460087" expanded="true" signature="1756:1803" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="1812:1918" placeholder=" Set dateLastModified ..." />
+                <marker date="1464499460087" expanded="true" signature="1979:2067" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2076:2143" placeholder=" Get dateLastModified ..." />
+                <marker date="1464499460087" expanded="true" signature="2187:2239" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2248:2327" placeholder=" Set name ..." />
+                <marker date="1464499460087" expanded="true" signature="2364:2428" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2437:2489" placeholder=" Get name ..." />
+                <marker date="1464499460087" expanded="true" signature="2521:2561" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2570:2663" placeholder=" Set description ..." />
+                <marker date="1464499460087" expanded="true" signature="2714:2792" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2801:2860" placeholder=" Get description ..." />
+                <marker date="1464499460087" expanded="true" signature="2899:2946" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="2955:3058" placeholder=" Set shortDescription ..." />
+                <marker date="1464499460087" expanded="true" signature="3119:3207" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="3216:3280" placeholder=" Get shortDescription ..." />
+                <marker date="1464499460087" expanded="true" signature="3324:3376" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="3385:3477" placeholder=" Set clickCount ..." />
+                <marker date="1464499460087" expanded="true" signature="3526:3602" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="3611:3670" placeholder=" Get clickCount ..." />
+                <marker date="1464499460087" expanded="true" signature="3708:3754" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="3763:3850" placeholder=" Set keywords ..." />
+                <marker date="1464499460087" expanded="true" signature="3895:3967" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="3976:4032" placeholder=" Get keywords ..." />
+                <marker date="1464499460087" expanded="true" signature="4068:4112" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="4121:4205" placeholder=" Set status ..." />
+                <marker date="1464499460087" expanded="true" signature="4246:4314" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="4785:4867" placeholder=" Set isCod ..." />
+                <marker date="1464499460087" expanded="true" signature="4906:4972" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="4981:5035" placeholder=" Get isCod ..." />
+                <marker date="1464499460087" expanded="true" signature="5068:5109" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="5118:5218" placeholder=" Set isFreeShipping ..." />
+                <marker date="1464499460087" expanded="true" signature="5275:5359" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="5368:5431" placeholder=" Get isFreeShipping ..." />
+                <marker date="1464499460087" expanded="true" signature="5473:5523" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="5531:5556" placeholder=" @var string ..." />
+                <marker date="1464499460087" expanded="true" signature="5597:5623" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="5668:5769" placeholder=" Set youtubeVideoUrl ..." />
+                <marker date="1464499460087" expanded="true" signature="5828:5914" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="5923:5986" placeholder=" Get youtubeVideoUrl ..." />
+                <marker date="1464499460087" expanded="true" signature="6029:6080" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="6089:6197" placeholder=" Set shippingCategoryId ..." />
+                <marker date="1464499460087" expanded="true" signature="6262:6354" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="6363:6430" placeholder=" Get shippingCategoryId ..." />
+                <marker date="1464499460087" expanded="true" signature="6476:6530" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="6538:6564" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="6596:6624" placeholder=" @var \DateTime ..." />
+                <marker date="1464499460087" expanded="true" signature="6665:6691" placeholder=" @var integer ..." />
+                <marker date="1464499460087" expanded="true" signature="6729:6813" placeholder=" Set userId ..." />
+                <marker date="1464499460087" expanded="true" signature="6854:6922" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="6931:6986" placeholder=" Get userId ..." />
+                <marker date="1464499460087" expanded="true" signature="7020:7062" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="7071:7175" placeholder=" Set dateLastEmptied ..." />
+                <marker date="1464499460087" expanded="true" signature="7234:7320" placeholder="{...}" />
+                <marker date="1464499460087" expanded="true" signature="7329:7395" placeholder=" Get dateLastEmptied ..." />
+                <marker date="1464499460087" expanded="true" signature="7438:7489" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/routing/product.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.orm.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/doctrine/Product.orm.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/doctrine/Product.orm.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1360" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plearnu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontendBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plearnu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontendBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plearnu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontendBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plearnu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontendBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctrine" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plearnu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontendBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cabd845-96de-4e35-a80f-22b3364f33ad" name="Default" comment="" />
+      <created>1464498708536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464498708536</updated>
+      <workItem from="1464498709683" duration="844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="844000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1360" height="715" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25379938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Entity/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8490">
+          <caret line="566" column="0" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+          <folding>
+            <marker date="1464499460087" expanded="true" signature="122:21450" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="132:158" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="186:212" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="247:275" placeholder=" @var \DateTime ..." />
+            <marker date="1464499460087" expanded="true" signature="312:340" placeholder=" @var \DateTime ..." />
+            <marker date="1464499460087" expanded="true" signature="382:407" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="437:462" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="499:524" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="566:592" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="628:653" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="687:713" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="745:770" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="800:826" placeholder=" @var boolean ..." />
+            <marker date="1464499460087" expanded="true" signature="857:883" placeholder=" @var boolean ..." />
+            <marker date="1464499460087" expanded="true" signature="924:975" placeholder=" Get id ..." />
+            <marker date="1464499460087" expanded="true" signature="1005:1043" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="1052:1142" placeholder=" Set productId ..." />
+            <marker date="1464499460087" expanded="true" signature="1189:1263" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="1272:1330" placeholder=" Get productId ..." />
+            <marker date="1464499460087" expanded="true" signature="1367:1412" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="1421:1517" placeholder=" Set dateCreated ..." />
+            <marker date="1464499460087" expanded="true" signature="1568:1646" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="1655:1717" placeholder=" Get dateCreated ..." />
+            <marker date="1464499460087" expanded="true" signature="1756:1803" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="1812:1918" placeholder=" Set dateLastModified ..." />
+            <marker date="1464499460087" expanded="true" signature="1979:2067" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2076:2143" placeholder=" Get dateLastModified ..." />
+            <marker date="1464499460087" expanded="true" signature="2187:2239" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2248:2327" placeholder=" Set name ..." />
+            <marker date="1464499460087" expanded="true" signature="2364:2428" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2437:2489" placeholder=" Get name ..." />
+            <marker date="1464499460087" expanded="true" signature="2521:2561" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2570:2663" placeholder=" Set description ..." />
+            <marker date="1464499460087" expanded="true" signature="2714:2792" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2801:2860" placeholder=" Get description ..." />
+            <marker date="1464499460087" expanded="true" signature="2899:2946" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="2955:3058" placeholder=" Set shortDescription ..." />
+            <marker date="1464499460087" expanded="true" signature="3119:3207" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="3216:3280" placeholder=" Get shortDescription ..." />
+            <marker date="1464499460087" expanded="true" signature="3324:3376" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="3385:3477" placeholder=" Set clickCount ..." />
+            <marker date="1464499460087" expanded="true" signature="3526:3602" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="3611:3670" placeholder=" Get clickCount ..." />
+            <marker date="1464499460087" expanded="true" signature="3708:3754" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="3763:3850" placeholder=" Set keywords ..." />
+            <marker date="1464499460087" expanded="true" signature="3895:3967" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="3976:4032" placeholder=" Get keywords ..." />
+            <marker date="1464499460087" expanded="true" signature="4068:4112" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="4121:4205" placeholder=" Set status ..." />
+            <marker date="1464499460087" expanded="true" signature="4246:4314" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="4785:4867" placeholder=" Set isCod ..." />
+            <marker date="1464499460087" expanded="true" signature="4906:4972" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="4981:5035" placeholder=" Get isCod ..." />
+            <marker date="1464499460087" expanded="true" signature="5068:5109" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="5118:5218" placeholder=" Set isFreeShipping ..." />
+            <marker date="1464499460087" expanded="true" signature="5275:5359" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="5368:5431" placeholder=" Get isFreeShipping ..." />
+            <marker date="1464499460087" expanded="true" signature="5473:5523" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="5531:5556" placeholder=" @var string ..." />
+            <marker date="1464499460087" expanded="true" signature="5597:5623" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="5668:5769" placeholder=" Set youtubeVideoUrl ..." />
+            <marker date="1464499460087" expanded="true" signature="5828:5914" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="5923:5986" placeholder=" Get youtubeVideoUrl ..." />
+            <marker date="1464499460087" expanded="true" signature="6029:6080" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="6089:6197" placeholder=" Set shippingCategoryId ..." />
+            <marker date="1464499460087" expanded="true" signature="6262:6354" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="6363:6430" placeholder=" Get shippingCategoryId ..." />
+            <marker date="1464499460087" expanded="true" signature="6476:6530" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="6538:6564" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="6596:6624" placeholder=" @var \DateTime ..." />
+            <marker date="1464499460087" expanded="true" signature="6665:6691" placeholder=" @var integer ..." />
+            <marker date="1464499460087" expanded="true" signature="6729:6813" placeholder=" Set userId ..." />
+            <marker date="1464499460087" expanded="true" signature="6854:6922" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="6931:6986" placeholder=" Get userId ..." />
+            <marker date="1464499460087" expanded="true" signature="7020:7062" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="7071:7175" placeholder=" Set dateLastEmptied ..." />
+            <marker date="1464499460087" expanded="true" signature="7234:7320" placeholder="{...}" />
+            <marker date="1464499460087" expanded="true" signature="7329:7395" placeholder=" Get dateLastEmptied ..." />
+            <marker date="1464499460087" expanded="true" signature="7438:7489" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/routing/product.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/doctrine/Product.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

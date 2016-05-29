@@ -1,0 +1,6 @@
+plearnu_frontend_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PlearnuFrontendBundle:Default:index }
+plearnu_frontend_product:
+    resource: "routing/product.yml"
+    prefix: /product    

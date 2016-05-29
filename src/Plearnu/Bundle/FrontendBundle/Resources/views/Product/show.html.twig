@@ -1,0 +1,84 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Product</h1>
+
+    <table class="record_properties">
+        <tbody>
+            <tr>
+                <th>Productid</th>
+                <td>{{ entity.productId }}</td>
+            </tr>
+            <tr>
+                <th>Userid</th>
+                <td>{{ entity.userId }}</td>
+            </tr>
+            <tr>
+                <th>Datecreated</th>
+                <td>{{ entity.dateCreated|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Productcategoryid</th>
+                <td>{{ entity.productCategoryId }}</td>
+            </tr>
+            <tr>
+                <th>Datelastmodified</th>
+                <td>{{ entity.dateLastModified|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Datelastemptied</th>
+                <td>{{ entity.dateLastEmptied|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td>{{ entity.name }}</td>
+            </tr>
+            <tr>
+                <th>Description</th>
+                <td>{{ entity.description }}</td>
+            </tr>
+            <tr>
+                <th>Shortdescription</th>
+                <td>{{ entity.shortDescription }}</td>
+            </tr>
+            <tr>
+                <th>Clickcount</th>
+                <td>{{ entity.clickCount }}</td>
+            </tr>
+            <tr>
+                <th>Keywords</th>
+                <td>{{ entity.keywords }}</td>
+            </tr>
+            <tr>
+                <th>Status</th>
+                <td>{{ entity.status }}</td>
+            </tr>
+            <tr>
+                <th>Slug</th>
+                <td>{{ entity.slug }}</td>
+            </tr>
+            <tr>
+                <th>Iscod</th>
+                <td>{{ entity.isCod }}</td>
+            </tr>
+            <tr>
+                <th>Isfreeshipping</th>
+                <td>{{ entity.isFreeShipping }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+        <ul class="record_actions">
+    <li>
+        <a href="{{ path('product') }}">
+            Back to the list
+        </a>
+    </li>
+    <li>
+        <a href="{{ path('product_edit', { 'id': entity.productId }) }}">
+            Edit
+        </a>
+    </li>
+    <li>{{ form(delete_form) }}</li>
+</ul>
+{% endblock %}
