@@ -3,6 +3,8 @@
 {% block body -%}
     <h1>Product list</h1>
 
+    <div><input type="text" name="productName" style="width:200px;height:30px;padding-left: 5px;" placeholder="name"  onkeydown="myFunction(this)"></div>
+
     <table class="records_list">
         <thead>
             <tr>
@@ -58,10 +60,22 @@
     </table>
 
         <ul>
-        <li>
-            <a href="{{ path('product_new') }}">
-                Create a new entry
-            </a>
-        </li>
-    </ul>
+            <li>
+                <a href="{{ path('product_new') }}">
+                    Create a new entry
+                </a>
+            </li>
+        </ul>
+
+    {% block javascript %}
+        <script>
+            function myFunction(obj){
+
+                    //要做的事情
+                window.location = 'http://'+window.location.host+'/product/name/'+obj.value;
+
+            };
+        </script>
+    {% endblock %}
+
     {% endblock %}

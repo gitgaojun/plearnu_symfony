@@ -221,4 +221,24 @@ class ProductController extends Controller
             ->getForm()
         ;
     }
+
+    /**
+     * 搜索产品，依据 产品 名字
+     * @param Request $request
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function searchAction(Request $request)
+    {
+        $productName = $request->get('slug', '');
+
+        $productName = trim($productName);
+
+        $em = $this->getDoctrine()->getManager();
+
+        $entities = $em->getRepository('PlearnuFrontendBundle:Product')->findBy(['name' => $productName]);
+
+        return $this->render('PlearnuFrontendBundle:Product:index.html.twig', array(
+            'entities' => $entities,
+        ));
+    }
 }

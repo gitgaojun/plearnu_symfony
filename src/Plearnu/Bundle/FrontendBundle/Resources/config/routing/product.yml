@@ -28,3 +28,8 @@ product_delete:
     path:     /{id}/delete
     defaults: { _controller: "PlearnuFrontendBundle:Product:delete" }
     methods:  [POST, DELETE]
+
+product_search_name:
+    path:     /name/{slug}
+    defaults: { _controller: "PlearnuFrontendBundle:Product:search" }
+    methods:  [GET]
