@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cabd845-96de-4e35-a80f-22b3364f33ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos_elastic.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Controller/ProductController.php" afterPath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Controller/ProductController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/routing/product.yml" afterPath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/routing/product.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/views/Product/index.html.twig" afterPath="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/views/Product/index.html.twig" />
     </list>
     <ignored path="my_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +42,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" column="66" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="66" />
-              <folding />
+              <folding>
+                <marker date="1464518258403" expanded="true" signature="955:958" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,11 +59,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fos_elastic.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/fos_elastic.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,11 +98,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/doctrine/Product.orm.yml" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/config/routing/product.yml" />
         <option value="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Controller/ProductController.php" />
         <option value="$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/views/Product/index.html.twig" />
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
       </list>
     </option>
   </component>
@@ -411,12 +427,12 @@
       <workItem from="1464500873319" duration="1000" />
       <workItem from="1464502363331" duration="1370000" />
       <workItem from="1464511155802" duration="3254000" />
-      <workItem from="1464516354041" duration="3924000" />
+      <workItem from="1464516354041" duration="4302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9393000" />
+    <option name="totallyTimeSpent" value="9771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1360" height="715" extended-state="0" />
@@ -469,7 +485,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
+          <folding>
+            <marker date="1464518258403" expanded="true" signature="955:958" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -514,7 +532,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
+          <folding>
+            <marker date="1464518258403" expanded="true" signature="955:958" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -610,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="84" column="32" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Plearnu/Bundle/FrontendBundle/Resources/views/Product/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -631,7 +644,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="66" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="66" />
-          <folding />
+          <folding>
+            <marker date="1464518258403" expanded="true" signature="955:958" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,6 +662,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/fos_elastic.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
